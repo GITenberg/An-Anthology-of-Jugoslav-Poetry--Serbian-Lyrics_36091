@@ -1,0 +1,50 @@
+_repo: An-Anthology-of-Jugoslav-Poetry--Serbian-Lyrics_36091
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Bowring, John
+    birthdate: 1792
+    deathdate: 1872
+    gutenberg_agent_id: '24984'
+    url: http://www.gutenberg.org/2009/agents/24984
+  - agent_name: Lytton, Edward Robert Bulwer Lytton, Earl of
+    aliases:
+    - Bulwer Lytton, Edward Robert, Earl of Lytton
+    - Meredith, Owen
+    - Meridith, Owen
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '38241'
+    url: http://www.gutenberg.org/2009/agents/38241
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Bulwer-Lytton%2C_1st_Earl_of_Lytton
+  - agent_name: Wiles, James William
+    gutenberg_agent_id: '35893'
+    url: http://www.gutenberg.org/2009/agents/35893
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Stevenson, Beatrice L. (Beatrice Louise)
+    aliases:
+    - Stanoyevich, B. Stevenson (Beatrice Stevenson)
+    - Stanoyevich, Beatrice Stevenson
+    birthdate: 1887
+    gutenberg_agent_id: '38075'
+    url: http://www.gutenberg.org/2009/agents/38075
+description: ''
+gutenberg_issued: '2011-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36091'
+  lccn: '20011319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Serbian poetry -- Translations into English'
+- !lcsh 'Folk songs, Serbian'
+title: An Anthology of Jugoslav Poetry; Serbian Lyrics
+url: http://www.gutenberg.org/ebooks/36091
